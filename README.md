@@ -17,3 +17,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akhilamipara&show_icons=true&locale=en" alt="akhilamipara" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akhilamipara&" alt="akhilamipara" /></p>
+
+## 📊 GitHub Activity
+![Akhil's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=akhilamipara&theme=react-dark)
+
+## 💻 Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akhilamipara&layout=compact&theme=dark)
