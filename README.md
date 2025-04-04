@@ -6,8 +6,15 @@
 - 📫 How to reach me *akhilmamipara2005@gmail.com*
 
 ### 🌐 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Akhil_Amipara-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akhil-amipara-471b97357?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-<a href="https://instagram.com/akhil_amipara_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="akhil_amipara_" height="30" width="40" /></a>
+
+<a href="https://www.linkedin.com/in/akhil-amipara-471b97357?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank">
+  <img align="center" src="https://img.shields.io/badge/LinkedIn-Akhil_Amipara-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://instagram.com/akhil_amipara_" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="akhil_amipara_" height="30" width="40" />
+</a>
+
+
 
 ### 🛠️ Tech Stack
 
